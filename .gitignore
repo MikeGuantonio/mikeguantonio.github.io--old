@@ -1,0 +1,8 @@
+#ignore directories
+_site/
+
+#ignore files
+blog_ideas.txt
+
+#ignore swap files
+*~
